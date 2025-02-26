@@ -21,3 +21,4 @@ coverage
 
 # Optional: local MongoDB data
 /data
+.vercel
